@@ -9,4 +9,4 @@ Furbrained is an organisation repository to fork, and modify 3rd party code, and
 
 More info: <a href="https://furbrained.com">furbrained.com</a>
 
-![](https://komarev.com/ghpvc/?username=furbrained&color=white)
+![](https://komarev.com/ghpvc/?username=furbrained&color=black)
