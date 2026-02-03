@@ -1,6 +1,6 @@
 <h1><p align="center">Welcome to Furbrained</p></h1>
 <h3><p align="center">
-  <b>Projects From the Brain of Velivian Fesothe</b>
+  <b>Projects From the Brain of <a href="https://github.com/Fesothe">Velivian Fesothe</a> and <a href="https://github.com/KilynnTor">KilynnTor</a></b>
 </p></h3></br>
 
 ![Furbrained Header Logo.](https://cdn.furrys.org/github/furbrained/images/furbrained_github_1500x400.png)
