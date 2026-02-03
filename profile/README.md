@@ -5,7 +5,7 @@
 
 ![Furbrained Header Logo.](https://cdn.furrys.org/github/furbrained/images/furbrained_github_1500x400.png)
 
-Furbrained is an organisation repository to fork, and modify 3rd party code, and to publish code created by Velivian Fesothe.
+Furbrained is an organisation repository to fork, and modify 3rd party code, and to publish code created by Velivian Fesothe and KilynnTor.
 
 More info: <a href="https://furbrained.com">furbrained.com</a>
 
